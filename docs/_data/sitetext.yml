@@ -11,141 +11,101 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our website!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
-
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+    button: Join
+    buttonlink: "#contact"
 
   about:
     title: "About Us"
-    text: "our story"
     body: "The Cornell Amateur Radio Club, W2CXM, is a group of undergraduates, graduates, and other members of the Cornell and Ithaca community whose common interest is the hobby of amateur radio. Amateur radio activity at Cornell University dates as far back as 1915, under the callsign “8XU.” Formed in 1949, W2CXM has been licensed under the callsign “W2CXM” since 1951. W2CXM is affiliated with the American Radio Relay League and is funded annually by the Student Activities Finance Commission. 
           \n\n Cornell's radio club has a complete station available for use by its members 24 hours a day. Our capabilities include SSB (voice) Digital (RTTY,PSK,APRS,ETC..) , and CW (Morse code) communication of HF (1.8 - 30 MHz) and FM, SSB, and CW on 2 meters (144 - 148 MHz) as well as equipment for short-wave listening. The club has a 2 meter repeater operating on 146.610 MHz to aid in providing reliable local communications.
           \n\n W2CXM has had successful two-way communication with radio amateurs in well over 250 countries around the world including such places as Uganda, Mongolia, Antarctica, Qatar, Nepal, and Ghana. The club participates in amateur radio competitions for sport and emergency preparedness, both national and international, which test the operating skills of the competitors and the performance of equipment.
           \n\n W2CXM also uses its equipment to provide a number of public services. During natural disasters, members have aided in handling messages to and from afflicted areas. The club has also provided “phone patches” allowing national or international communications using only a local phone call for a student and his or her family. Locally, club members can assist in communications during emergencies, walkathons, races, etc., using our 2 meter repeater. All public services of W2CXM are voluntary and free of charge."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  portfolio:
+    title: "Projects"
+    section: portfolio
+    closebutton: "Close Project"
+
+  services:
+    title: "The Amateur Radio Club at Cornell University"
+
+  # timeline:
+  #   title: "Timeline"
+  #   text: "Lorem ipsum timeline"
+  #   section: timeline
+  #   # left is the default
+  #   #start_align: "left"
+  #   events:
+  #     - title: "Our Humble Beginnings"
+  #       year: "2009-2011"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #       image: assets/img/timeline/1.jpg
+  #       alt:
+  #     - title: "An Agency is Born"
+  #       year: "March 2011"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #       image: assets/img/timeline/2.jpg
+  #       alt:
+  #     - title: "Jekyll Theme is created"
+  #       year: "2019"
+  #       desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+  #       image: assets/img/timeline/3.jpg
+  #       alt: image alt text
+  #     - title: "Title"
+  #       year: "2009-2011"
+  #       desc: "Your description here, **Markdown** is fully supported."
+  #       image: assets/img/timeline/4.jpg
+  #       alt:
+  #       # you can enforce the alignment
+  #       align: right
+  #   end: "Be Part <br> of Our <br> Story!"
+
+  timeline:
+    text: "."
+    section: timeline
+    events:
 
   team:
-    title: "OUR CLUB"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Officers"
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Esther Li"
+        role: "President"
+        image: assets/img/team/esther.jpeg
+        social:
+          - url: mailto:el633@cornell.edu
+            icon: fas fa-envelope
+      - name: "Mike Hojnowski"
+        role: "Advisor"
+        image: assets/img/team/mike.jpeg
+        social:
+          - url: mailto:kd2eat@gmail.com
+            icon: fas fa-envelope   
+      - name: "Sam Cobado"
+        role: "Vice President"
+        image: assets/img/team/sam.jpg
+        social:
+          - url: mailto:sec322@cornell.edu
+            icon: fas fa-envelope
+      - name: "Lauren Greenhill"
+        role: "Treasurer"
+        image: assets/img/team/lauren.jpg
+        social:
+          - url: mailto:ljg227@cornell.edu
+            icon: fas fa-envelope
+      
+      - name: "Jules Hojnowski"
+        role: "Archivist"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
+          - url: mailto:jah11@cornell.edu
+            icon: fas fa-envelope   
+  
   contact:
     title: "Join"
-    text: "Find us on Cornell CampusGroups"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    text: "Find us on Cornell CampusGroups and join our listserv"
+    submit: "Join Mailing List"
 
   footer:
     social:
