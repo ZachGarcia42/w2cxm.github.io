@@ -25,6 +25,7 @@ caption:
 * (1) CR 2032 button battery for Tiny13 controller, PTT and Piezo Electric Buzzer.
 
 ### Balloon Design
+
 #### Parachute Size
 
 I ran a MATLAB simulation and came up with these results:
@@ -63,7 +64,45 @@ Cornell Rocketry has light weight parachute that is 12[in] diameter.
 | Waterproof packaging                       |           | 10g (est)                                 |
 | **Total**                                  |           | **113g**                                  |
 
+<br>
+
 #### Electronics Design
 ![](assets/img/balloon/electronics_hello_kitty.jpg)
 ![](assets/img/balloon/electronics_hello_kitty_2.jpg)
 
+#### Code Design
+```
+set_timer(1 hour);
+while(true) {
+  transmitter on;
+  send_morse("W2CXM/BALLOON");
+  send_tone(10);
+  send_dead_air(10);
+  transmitter off;
+  sleep(30);
+}
+```
+
+#### Testing
+* Battery testing of the (3) AA Energizer Ultimate Lithium revealed that we were able to successfully transmit for 9-10 hours before the batteries lost sufficient power. This well exceeds our mission requirements - aka “Find it before dark”.
+* [Youtube of controller board test](https://www.youtube.com/watch?v=CkXRHUpymAI)
+* Testing with 6 pound test fishing line shows that an Estes rocket igniter will cut it very easily. Before the igniter even catches fire, in fact. Further, the igniter seems durable enough to support the 100g payload during heavy jostling. We will suspend the package from the igniter for this mission.
+
+#### Final Cost Estimate
+
+| **Element**                                |           | **Cost**                                  |
+| ------------------------------------------ | --------- | ----------------------------------------- |
+| Mylar Balloon(s) & gas                     |           | $15                                       |
+| Parachute                                  |           | $5                                        |
+| String                                     |           | $0                                        |
+| Nichrome and lead wire                     |           | $6                                        |
+| Radio                                      |           | $20                                       |
+| Battery                                    |           | $20                                       |
+| Microcontroller board & components         |           | $20                                       |
+| Waterproof packaging                       |           | $0                                        |
+| **Total**                                  |           | **$86**                                   |
+
+<br>
+
+#### Reference Links and Inspirations
+* [Morse code on Amtel chip. Also, home brew transmitter.](https://swharden.com/blog/2010-07-14-high-altitude-balloon-transmitter/)

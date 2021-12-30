@@ -167,10 +167,10 @@ en: &DEFAULT_EN
           - url: mailto:jah11@cornell.edu
             icon: fas fa-envelope   
   
-  contact:
-    title: "Join"
-    text: "Find us on Cornell CampusGroups and join our listserv"
-    submit: "Join Mailing List"
+  #contact:
+  #  title: "Join"
+  #  text: "Find us on Cornell CampusGroups and join our listserv"
+  #  submit: "Join Mailing List"
 
   footer:
     social:
