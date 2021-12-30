@@ -22,12 +22,13 @@ en: &DEFAULT_EN
       - title: "Capabilities"
         desc: "Cornell’s radio club has a complete station available for use by its members 24 hours a day. Our capabilities include SSB (voice) Digital (RTTY,PSK,APRS,ETC..) , and CW (Morse code) communication of HF (1.8 - 30 MHz) and FM, SSB, and CW on 2 meters (144 - 148 MHz) as well as equipment for short-wave listening. The club has a 2 meter repeater operating on 146.610 MHz to aid in providing reliable local communications."
         icon: fas fa-broadcast-tower
-      - title: "Competitions"
-        desc: "W2CXM has had successful two-way communication with radio amateurs in well over 250 countries around the world including such places as Uganda, Mongolia, Antarctica, Qatar, Nepal, and Ghana. The club participates in amateur radio competitions for sport and emergency preparedness, both national and international, which test the operating skills of the competitors and the performance of equipment."
-        icon: fas fa-medal
       - title: "Public Service"
         desc: "W2CXM also uses its equipment to provide a number of public services. During natural disasters, members have aided in handling messages to and from afflicted areas. The club has also provided “phone patches” allowing national or international communications using only a local phone call for a student and his or her family. Locally, club members can assist in communications during emergencies, walkathons, races, etc., using our 2 meter repeater. All public services of W2CXM are voluntary and free of charge."
         icon: fas fa-first-aid
+      - title: "Competitions"
+        desc: "W2CXM has had successful two-way communication with radio amateurs in well over 250 countries around the world including such places as Uganda, Mongolia, Antarctica, Qatar, Nepal, and Ghana. The club participates in amateur radio competitions for sport and emergency preparedness, both national and international, which test the operating skills of the competitors and the performance of equipment."
+        icon: fas fa-medal
+
 
   about:
     title: |

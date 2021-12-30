@@ -18,9 +18,9 @@ caption:
 * Alinco DJ-C4T - 300mw transmitter on 70cm - 446.450
 * Mylar balloons.
 * Party Gas will provide adequate lift for this launch.
-* Atmel AVR ATtiny13
+* [Atmel AVR ATtiny13](http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf)
 * 71J3430 n-Type MOSFET for activating PTT on the radio
-* Hamlin HE721C0510 reed relay for nichrome burn
+* [Hamlin HE721C0510 reed relay for nichrome burn](https://www.littelfuse.com/~/media/electronics/datasheets/reed_relays/littelfuse_reed_relays_he700_datasheet.pdf.pdf?utm_source=hamlin.com&utm_medium=redirect&utm_content=datasheet&utm_campaign=hamlin-lf)
 * (3) AA Energizer Ultimate Lithium batteries, in series, for radio and nichrome.
 * (1) CR 2032 button battery for Tiny13 controller, PTT and Piezo Electric Buzzer.
 
@@ -49,4 +49,21 @@ Cornell Rocketry has light weight parachute that is 12[in] diameter.
 
 ![](assets/img/balloon/hello_kitty_2.gif)
 
+#### Project Weight
+
+| **Element**                                |           | **Weight**                                |
+| ------------------------------------------ | ----------| ------------------------------------------|
+| Mylar Balloon                              |           | 1g                                        |
+| Parachute & rigging                        |           | 2g                                        |
+| Nichrome and lead wire                     |           | 5g (est)                                  |
+| Radio                                      |           | 35g (Case partially removed)              |
+| AA Batteries                               |           | 37g                                       |
+| CR2032 Battery                             |           | 3g                                        |
+| Microcontroller board                      |           | 20g                                       |
+| Waterproof packaging                       |           | 10g (est)                                 |
+| **Total**                                  |           | **113g**                                  |
+
+#### Electronics Design
+![](assets/img/balloon/electronics_hello_kitty.jpg)
+![](assets/img/balloon/electronics_hello_kitty_2.jpg)
 
