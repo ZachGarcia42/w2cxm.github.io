@@ -30,12 +30,9 @@ en: &DEFAULT_EN
         icon: fas fa-first-aid
 
   about:
-    title: "Resources"
-    body: "The Cornell Amateur Radio Club, W2CXM, is a group of undergraduates, graduates, and other members of the Cornell and Ithaca community whose common interest is the hobby of amateur radio. Amateur radio activity at Cornell University dates as far back as 1915, under the callsign “8XU.” Formed in 1949, W2CXM has been licensed under the callsign “W2CXM” since 1951. W2CXM is affiliated with the American Radio Relay League and is funded annually by the Student Activities Finance Commission. 
-          \n\nCornell's radio club has a complete station available for use by its members 24 hours a day. Our capabilities include SSB (voice) Digital (RTTY,PSK,APRS,ETC..) , and CW (Morse code) communication of HF (1.8 - 30 MHz) and FM, SSB, and CW on 2 meters (144 - 148 MHz) as well as equipment for short-wave listening. The club has a 2 meter repeater operating on 146.610 MHz to aid in providing reliable local communications.
-          \n\nW2CXM has had successful two-way communication with radio amateurs in well over 250 countries around the world including such places as Uganda, Mongolia, Antarctica, Qatar, Nepal, and Ghana. The club participates in amateur radio competitions for sport and emergency preparedness, both national and international, which test the operating skills of the competitors and the performance of equipment.
-          \n\nW2CXM also uses its equipment to provide a number of public services. During natural disasters, members have aided in handling messages to and from afflicted areas. The club has also provided “phone patches” allowing national or international communications using only a local phone call for a student and his or her family. Locally, club members can assist in communications during emergencies, walkathons, races, etc., using our 2 meter repeater. All public services of W2CXM are voluntary and free of charge."
-    section: about
+    title: |
+           <a href="https://www.w2cxm.org/resources/hamradio">Resources</a>
+    body: Here is a link to our previous website with helpful links.
 
   portfolio:
     title: "Projects"
@@ -43,8 +40,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "History of the Amateur Radio Club at Cornell University"
+    title: "History"
+    text: "We are continually striving to make this history more complete. Please! If you are a former W2CXM member, share any stories or pictures you have with us and let us know what you are doing these days!"
     section: timeline
     events:
       - title: "1915"
@@ -56,7 +53,6 @@ en: &DEFAULT_EN
                 <br><br>Charles Murray, W8ZA “remember(s) working the University station on numerous occasions on spark and at the time Cornell's assigned call letters were 8XU. All calls beginning with the letters X, Y, and Z were classed as Special Land Stations and they were carried in the List of Commercial and Government Radio Stations of the United States.”
               </details>
         image: assets/img/timeline/1.jpg
-
       - title: "1949"
         desc: |
               <details>
@@ -64,8 +60,6 @@ en: &DEFAULT_EN
                 <br>The Cornell Amateur Radio Club as we know it today was formally organized in 1949 and three years later was issued the club call letters W2CXM which it holds to this day. Its early members were quite active in the American Radio Relay League's National Traffic System. The station has Brass Pounder League certificates dating from 1957-1958. W2CXM was issued its Worked All Continents award in 1955 and achieved DXCC in 1969 and has made contact with stations from such exotic locations as Albania, Mongolia, Antartica, Qatar, Nepal, and Ghana. The club has had a long affiliation with the ARRL and owns in its library a near complete QST collection dating from 1949 onward.
               </details>
         image: assets/img/timeline/2.jpg
-
-
       - title: "1940's"
         desc: |
               <details>
@@ -78,8 +72,6 @@ en: &DEFAULT_EN
                 <br><br>At graduation, we got diplomas in one hand and military travel orders in the other: alas, another war — Korea this time. Wintriss went Navy, Clarke to Air Force, and I to Fort Monmouth."
               </details>
         image: assets/img/timeline/40s.jpg
-      
-      
       - title: "1960's"
         desc: |
               <details>
@@ -92,7 +84,6 @@ en: &DEFAULT_EN
                 <br><br>As engineers we made a visit to the IBM plant making the new integrated circuits. They were very proud that their yield on 7400 chips was about 3 chips in 100."
               </details>
         image: assets/img/timeline/4.jpg
-
       - title: "1970's"
         desc: |
               <details>
