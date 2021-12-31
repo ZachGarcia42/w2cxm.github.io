@@ -170,7 +170,7 @@ en: &DEFAULT_EN
   contact:
     title: "Join"
     section: contact
-    text: The club has a mailing list that is used by members for club announcements and club related traffic. To subscribe to this list, send a message to hamradio-l-request@cornell.edu with “join” on a single line in the body of the message. Find more information on CampusGroups."
+    text: The club has a mailing list that is used by members for club announcements and club related traffic. To subscribe to this list, send a message to hamradio-l-request@cornell.edu with “join” on a single line in the body of the message. Find more information on CampusGroups.
     submit: "CampusGroups"
 
   footer:
