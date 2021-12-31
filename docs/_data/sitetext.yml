@@ -100,16 +100,16 @@ en: &DEFAULT_EN
         desc: |
               <details>
                 <summary>Some of the highlights of this time period included:</summary>
-                <br><br>  -> Moving the antennas to the South tower.
-                <br><br>  -> Installing two runs of 7/8“ hardline between the towers along the catwalks in Barton.
-                <br><br>  -> Station activity really picked up after moving the antennas. The TH6DXX tribander, tower, rotor, 7/8” hardline, and the F9FT 2-meter horizontal Yagi were acquired by the club in 1979.
-                <br><br>  -> Running licensing classes for Novices through the Experimental College.
-                <br><br>  -> Refurbishing the 2-meter repeater and converting it to microprocessor control using a SYM-1 6502-based controller that was programmed by paper tape!
-                <br><br>  -> Linking the 10-meter repeater to the 2-meter repeater. Talking to people all over the country using 10-meters from a handheld 2-meter rig on campus was quite a kick.
-                <br><br>  -> Converting old CB radios to 10 meter FM rigs.
-                <br><br>  -> Receiving a significant “donation” from the Physics department in the form of a lot of old junk they were going to throw out. Some of this junk is probably still cluttering the closets of W2CXM, having never been used. One notable piece of junk was some avionics radar pod that looked pretty cool.
-                <br><br>  -> In 1987, WA2PKP built a 24GHz Gunnplexer while he worked at M/A-Com, which was intended to serve as a two-way audio link between the repeater on Bradfield and the telephone line at the club station in Barton. It used an FM radio for the IF receiver.
-                <br><br>  -> Following the Mexico City earthquake of September 1985, W2CXM played an important role in helping Ithacans contact friends and family there. An article about W2CXM appeared in the September 28, 1988 issue of the Cornell Daily Sun.
+                <br>• Moving the antennas to the South tower.
+                <br>• Installing two runs of 7/8“ hardline between the towers along the catwalks in Barton.
+                <br>• Station activity really picked up after moving the antennas. The TH6DXX tribander, tower, rotor, 7/8” hardline, and the F9FT 2-meter horizontal Yagi were acquired by the club in 1979.
+                <br>• Running licensing classes for Novices through the Experimental College.
+                <br>• Refurbishing the 2-meter repeater and converting it to microprocessor control using a SYM-1 6502-based controller that was programmed by paper tape!
+                <br>• Linking the 10-meter repeater to the 2-meter repeater. Talking to people all over the country using 10-meters from a handheld 2-meter rig on campus was quite a kick.
+                <br>• Converting old CB radios to 10 meter FM rigs.
+                <br>• Receiving a significant “donation” from the Physics department in the form of a lot of old junk they were going to throw out. Some of this junk is probably still cluttering the closets of W2CXM, having never been used. One notable piece of junk was some avionics radar pod that looked pretty cool.
+                <br>• In 1987, WA2PKP built a 24GHz Gunnplexer while he worked at M/A-Com, which was intended to serve as a two-way audio link between the repeater on Bradfield and the telephone line at the club station in Barton. It used an FM radio for the IF receiver.
+                <br>• Following the Mexico City earthquake of September 1985, W2CXM played an important role in helping Ithacans contact friends and family there. An article about W2CXM appeared in the September 28, 1988 issue of the Cornell Daily Sun.
                 <br><br> With the late 1980's came the W2CXM cube radio, a simple 2-meter receiver made from a modified Radio Shack weather radio cube. The cube was originally designed for a tech/general licensing class to listen in on repeaters for code practice. Headed by advisor and former president, Steve Powell, N2BU, club members assembled and sold kits for the cube radio at local hamfests. Alex Rudd (President CARC, '86-'89), KA2ZOO, comments on the huge success of the project: “As Steve might attest, for all the money generated and pride taken, the weather cube project got to be a little overwhelming. We all had fun (I think) lining up assembly-line style to put together weather cube conversion kits and selling completed cubes at area hamfests, but most of us were pretty happy when the whole thing was over and done with, too.” An article about the W2CXM cube radio appears in the June 1987 issue of QST.
               </details> 
         image: assets/img/timeline/4.jpg
@@ -167,10 +167,11 @@ en: &DEFAULT_EN
           - url: mailto:jah11@cornell.edu
             icon: fas fa-envelope   
   
-  #contact:
-  #  title: "Join"
-  #  text: "Find us on Cornell CampusGroups and join our listserv"
-  #  submit: "Join Mailing List"
+  contact:
+    title: "Join"
+    section: contact
+    text: "Find us on Cornell CampusGroups and join our listserv"
+    submit: "Join Mailing List"
 
   footer:
     social:

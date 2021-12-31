@@ -1,6 +1,6 @@
 ---
 title: Hello Kitty
-subtitle: "Launch Date: Sunday, 10/6/2013. 3:00pm EST. East Hill Plaza, Ithaca, NY."
+subtitle: "Launch Date: Sunday, 10/06/2013. 3:00pm EST. East Hill Plaza, Ithaca, NY."
 image: assets/img/balloon/hello_kitty.jpg
 
 caption:
