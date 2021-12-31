@@ -60,14 +60,14 @@ en: &DEFAULT_EN
                 <br><br>Correspondence on file with the Cornell Amateur Radio Club includes a letter from Alfred Manchee, K2ALF, a Cornell Electrical Engineering alumni who “operated the Cornell wireless station in the 20's when the lid went off after WW1. The station was under the direction of Professor William C. Ballard.” In fact, it was Ballard who, in 1916, designed and built a 5 kW spark-driven transmitter that operated at 706 kilocycles per second and obtained a provisional license to operate it as an experimental wireless telegraphy station with the call 8YC. Just seven years before, Cornell had started offering it's first course in wireless technology, E 27 “Wireless Telegraphy and Telephony”, an elective for EE school seniors taught by Instructor William H. Kroger. Ballard took over instruction of this course in 1915 after Kroger departed from Cornell.
                 <br><br>Charles Murray, W8ZA “remember(s) working the University station on numerous occasions on spark and at the time Cornell's assigned call letters were 8XU. All calls beginning with the letters X, Y, and Z were classed as Special Land Stations and they were carried in the List of Commercial and Government Radio Stations of the United States.”
               </details>
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/15.jpg
       - title: "1949"
         desc: |
               <details>
                 <summary>Founding</summary>
                 <br>The Cornell Amateur Radio Club as we know it today was formally organized in 1949 and three years later was issued the club call letters W2CXM which it holds to this day. Its early members were quite active in the American Radio Relay League's National Traffic System. The station has Brass Pounder League certificates dating from 1957-1958. W2CXM was issued its Worked All Continents award in 1955 and achieved DXCC in 1969 and has made contact with stations from such exotic locations as Albania, Mongolia, Antartica, Qatar, Nepal, and Ghana. The club has had a long affiliation with the ARRL and owns in its library a near complete QST collection dating from 1949 onward.
               </details>
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/49.jpg
       - title: "1940's"
         desc: |
               <details>
@@ -91,7 +91,7 @@ en: &DEFAULT_EN
                 <br><br>Basic was a new langugage and the most exciting thing on engineering campus was a TTY attached to the phone line connecting it to a far away computer system.
                 <br><br>As engineers we made a visit to the IBM plant making the new integrated circuits. They were very proud that their yield on 7400 chips was about 3 chips in 100."
               </details>
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/60s.jpg
       - title: "1970's"
         desc: |
               <details>
@@ -119,7 +119,7 @@ en: &DEFAULT_EN
                 <br>• Following the Mexico City earthquake of September 1985, W2CXM played an important role in helping Ithacans contact friends and family there. An article about W2CXM appeared in the September 28, 1988 issue of the Cornell Daily Sun.
                 <br><br> With the late 1980's came the W2CXM cube radio, a simple 2-meter receiver made from a modified Radio Shack weather radio cube. The cube was originally designed for a tech/general licensing class to listen in on repeaters for code practice. Headed by advisor and former president, Steve Powell, N2BU, club members assembled and sold kits for the cube radio at local hamfests. Alex Rudd (President CARC, '86-'89), KA2ZOO, comments on the huge success of the project: “As Steve might attest, for all the money generated and pride taken, the weather cube project got to be a little overwhelming. We all had fun (I think) lining up assembly-line style to put together weather cube conversion kits and selling completed cubes at area hamfests, but most of us were pretty happy when the whole thing was over and done with, too.” An article about the W2CXM cube radio appears in the June 1987 issue of QST.
               </details> 
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/80s.jpg
       - title: "1990's"
         desc: |
               <details>
@@ -127,7 +127,7 @@ en: &DEFAULT_EN
                 <br>
                 In May 1998, W2CXM acquired a TS-790 144/440 MHz all-mode transceiver and began construction of an amateur satellite station.
               </details> 
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/90s.jpg
       - title: "2000's"
         desc: |
               <details>
@@ -165,14 +165,7 @@ en: &DEFAULT_EN
         image: assets/img/team/lauren.jpg
         social:
           - url: mailto:ljg227@cornell.edu
-            icon: fas fa-envelope
-      
-      - name: "Jules Hojnowski"
-        role: "Archivist"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: mailto:jah11@cornell.edu
-            icon: fas fa-envelope   
+            icon: fas fa-envelope  
   
   contact:
     title: "Join"
