@@ -33,10 +33,17 @@ en: &DEFAULT_EN
   about:
     title: |
            <a href="https://www.w2cxm.org/resources/hamradio">Resources</a>
-    body: Here is a link to our previous website with helpful links.
+    body: Here is a link to our previous website with more resources.
 
   portfolio:
     title: "Projects"
+    text: | 
+          <button class="btn btn-primary btn-xl text-uppercase"
+            onclick="window.location.href='https://www.w2cxm.org/projects/start';" type="submit"> More Projects 
+          </button>
+
+
+
     section: portfolio
     closebutton: "Close Project"
 
