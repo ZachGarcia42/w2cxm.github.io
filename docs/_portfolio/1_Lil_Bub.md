@@ -31,6 +31,7 @@ The balloon was launched on schedule with the tracker and camera operating. Thou
 | Recovery            | | 12“ Parachute                  |
 | Tracking            | | Peach1 HAB tracker             |
 | Telemetry         	| | GPS and temperature data       |
+
 <br>
 
 ### Balloon and Payload Weight Budget
@@ -46,6 +47,7 @@ The balloon was launched on schedule with the tracker and camera operating. Thou
 | Balloon attachment (tape)              |     | 10                 |
 | Camera 1                               |     | 19                 |
 | **Total (goal: 300)**                  |     | **257**            |
+
 <br>
 
 ### Final Package
@@ -61,6 +63,7 @@ The balloon was launched on schedule with the tracker and camera operating. Thou
 | APRS Tracker                           |     | $150               |
 | Packaging, Parachute                   |     | $10                |
 | **Total**                              |     | **$281**           |
+
 <br>
 
 ### Balloon Prediction Input
@@ -75,6 +78,7 @@ The balloon was launched on schedule with the tracker and camera operating. Thou
 | Gas                                        |           | Helium                                    |           
 | Burst Diameter                             |           | 2.4m                                      |
 | Start Location                             |           | Trumansburg Fairgrounds, New York         |
+
 <br>
 
 #### Notes:
@@ -82,12 +86,14 @@ The balloon was launched on schedule with the tracker and camera operating. Thou
 * Descent rate calculated using Model Rocket Descent Rate Calculator. Total weight 200g. 12” hexagonal parachute. Note, the calculator estimated just under 6 m/s. However, experience shows that the balloon remnants often come down with the payload, speeding the descent. Rounded up to 8 m/s based on previous launch experience.
 
 ### Balloon Prediction Output
+
 | Burst Altitude | | 10464 m    |
 | Ascent Rate	   | | 7.52 m/s   |
 | Neck Lift	     | | 1550 g     |
 | Launch Volume	 | | 60.2 cu ft |
 | Flight Range	 | | 26.2 km    |
 | Flight Time	   | | 40 min     |
+
 <br>
 
 * Note: The balloon manufacturer claims 15,000m burst altitude. We are filling this balloon a LOT.
@@ -122,6 +128,7 @@ At the time of the fill, we put in more gas. The tanks were nearly empty, and we
 ![](assets/img/balloon/img_8779.jpg)
 
 #### Actual track vs projected track
+
 ![](assets/img/balloon/google_earth_comparison.jpg)
 
 |          	     |   | **Predicted** |   | **Actual**  |
@@ -131,6 +138,7 @@ At the time of the fill, we put in more gas. The tanks were nearly empty, and we
 | Descent Rate   |   | 8.0 m/s       |   |	8.91 m/s   |
 | Flight Range   |   | 26.2 km       |   |	49.54 km   |
 | Flight Time    |   | 40 min        |   |	49 min     |
+
 <br>
 
 Note, given that the balloon was overfilled at launch to nearly 6' in diameter (113 cu ft), the predictor indicates that the ascent rate should have been about 8.66m/s. This very closely matches our observed ascent rate of 8.57m/s. Let's hear it for science!

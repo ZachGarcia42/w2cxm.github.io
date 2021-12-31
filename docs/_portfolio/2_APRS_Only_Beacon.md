@@ -30,7 +30,9 @@ caption:
 | **Recovery**                               |           | Streamer                                  |
 | **Tracking**                               |           | [300mw APRS tracker loaned to us by Alan](https://www.rcgroups.com/forums/showthread.php?1488481-GPS-tracker Adamson (W7QO))|
 | **Telemetry**                              |           | GPS data only                             |
+
 <br>
+
 * Note: Hydrogen was planned, but we discovered at the last minute that we needed a regulator that would not be available in time. We fell back to helium.
 
 ### Balloon and Payload Weight Budget
@@ -45,6 +47,7 @@ caption:
 | Balloon                                    |           | 150                                       |
 | Balloon attachment (string, tape)          |           | 18                                        |
 | **Total (goal: 250)**                      |           | **281g**                                  |
+
 <br>
 
 ### Final Package
@@ -60,6 +63,7 @@ caption:
 | APRS Tracker                               |           | Donated                                   |
 | Packaging, Streamers                       |           | Donated                                   |
 | **Total**                                  |           | **$91**                                   |
+
 <br>
 
 ### Balloon Prediction Input
@@ -74,7 +78,9 @@ caption:
 | Gas                                        |           | Helium                                    |
 | Burst Diameter                             |           | 2.4m                                      |
 | Start Location                             |           | Trial and error, aiming for southeast of Ithaca |
+
 <br>
+
 *Note: The predictor does not have 150g balloons, so we used a 200, deducted 50g from the payload weight, and specified an explicit burst diameter based on manufacturer specs.
 
 
@@ -86,6 +92,7 @@ caption:
 | Launch Volume  | 41.1 cu ft |
 | Flight Range   | 105 km     |
 | Flight Time	   | 0:52       |
+
 <br>
 
 *Note: Parameters seem good. The balloon manufacturer claims 15,000m burst altitude. The GPS on this tracker is rated to 18,000m.
@@ -160,6 +167,7 @@ The tracker was heard by a number of distant stations. It was picked up in Ithac
 | WB2ZII-15                  |      | Yorktown Heights, NY           |      | 179 Miles |
 | VA3BAL-4                   |      | Newmarket, Ontario, CA         |      | 135 Miles |
 | K2JJI-10                   |      | Johnstown, NY                  |      | 135 Miles |
+
 <br>
 It would appear the 300mw tracker with a 20“ counterpoise on the rubber duck antenna is more than sufficient for our needs. We shouldn't need to worry about fanning out iGates below the flight path with this tracker.
 
