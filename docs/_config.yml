@@ -4,9 +4,9 @@ domain: w2cxm.github.io
 url    : https://w2cxm.github.io 
 baseurl: ""
 
-title      : W2CXM
+title      : Amateur Radio Club at Cornell University
 email      : hamradio-l-request@cornell.edu
-description: "Amateur Radio Club at Cornell University"
+description: Amateur Radio Club at Cornell University
 logo:     
   path: assets\img\logo.jpeg
   height: 60 #height in px, defaults to 52px
