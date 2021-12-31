@@ -96,7 +96,7 @@ The balloon was launched on schedule with the tracker and camera operating. Thou
 
 <br>
 
-* Note: The balloon manufacturer claims 15,000m burst altitude. We are filling this balloon a LOT.
+Note: The balloon manufacturer claims 15,000m burst altitude. We are filling this balloon a LOT.
 
 ### Chase Cars
 * Launch: Hojo/KD2EAT and Dave/KD2GBX
