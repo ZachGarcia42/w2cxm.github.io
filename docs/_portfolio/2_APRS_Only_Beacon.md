@@ -83,6 +83,13 @@ caption:
 
 ### Balloon Prediction Output
 
+| Burst Altitude | 13,220 m   |
+| Ascent Rate    | 6.78 m/s   |
+| Neck Lift	     | 996g       |
+| Launch Volume  | 41.1 cu ft |
+| Flight Range   | 105 km     |
+| Flight Time	   | 0:52       |
+
 *Note: Parameters seem good. The balloon manufacturer claims 15,000m burst altitude. The GPS on this tracker is rated to 18,000m.
 
 ![](assets/img/balloon/prediction_1.jpg)
@@ -123,6 +130,7 @@ The payload landed 9.45 miles from the originally projected location.
 
 ##### The payload on the ground
 Note that it landed with no sign of the balloon or streamers. They tore off completely. The payload free fell.
+
 ![](assets/img/balloon/payload_ground.jpg)
 
 The orange you see in this picture is duct tape. Adam/KC2ANT peeled it back to “cut the red wire” and unplug the tracker from the battery. The yellow streamers tore off at their attachment points on the payload and were nowhere to be seen. The bit sticking out from between his fingers is all that remained of the balloon.
@@ -151,6 +159,9 @@ Some more mathematical calculations on the GPS distances can help validate this,
 The tracker was heard by a number of distant stations. It was picked up in Ithaca within three minutes of launch. Three stations that logged on aprs.fi were over 100 miles away.
 <br>
 
+| WB2ZII-15                  |      | Yorktown Heights, NY           |      | 179 Miles |
+| VA3BAL-4                   |      | Newmarket, Ontario, CA         |      | 135 Miles |
+| K2JJI-10                   |      | Johnstown, NY                  |      | 135 Miles |
 
 <br>
 It would appear the 300mw tracker with a 20“ counterpoise on the rubber duck antenna is more than sufficient for our needs. We shouldn't need to worry about fanning out iGates below the flight path with this tracker.
